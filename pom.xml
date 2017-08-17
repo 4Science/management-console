@@ -64,6 +64,7 @@
         <tomcat.port>${tomcat.port.default}</tomcat.port>
         <database.home>${database.home.default}</database.home>
         <log.level>${log.level.default}</log.level>
+        <duracloud.home>/tmp/duracloud</duracloud.home>
       </properties>
 
       <build>
